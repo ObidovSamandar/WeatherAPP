@@ -1,2 +1,2 @@
 # WeatherAPP
- Weather Web Application
+ Weather Web Application (API)
